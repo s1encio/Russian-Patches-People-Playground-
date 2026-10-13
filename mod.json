@@ -1,0 +1,20 @@
+{
+  "Name": "Russian Patches",
+  "Author": "s1encio",
+  "Description": "Add patches very cool patches (DISABLE COLISION ON THEM AFTER PUTTING THEM ON DUMMY)",
+  "ModVersion": "1.0",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "russia.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs",
+    "CategoryBuilder.cs",
+    "ArmourBehaivour.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2960897624"
+}
